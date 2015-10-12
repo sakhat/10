@@ -9,3 +9,4 @@ public:
 	Descendant();
 	~Descendant();
 };
+
